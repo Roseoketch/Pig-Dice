@@ -1,0 +1,13 @@
+.container{
+  background-image: url("../assets/pig-dice.jpg");
+  height: 100%;
+}
+
+.container-fluid{
+  display: none;
+  background-color: blue;
+  color: white;
+}
+ header h1{
+   text-align: center;
+ }
