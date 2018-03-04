@@ -5,7 +5,10 @@
 
 .container-fluid{
   display: none;
-  background-color: blue;
+  background: url('../assets/giphy.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
   color: white;
 }
  header h1{
