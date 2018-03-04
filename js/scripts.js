@@ -7,7 +7,10 @@
             });
 
 
-            $("button#new-game").click(function(event){
+            $("button#new-game").click(function(event) {
               $(".container").show();
-                $(".container-fluid").hide();
-});
+              $(".container-fluid").hide();
+            });
+
+
+        
